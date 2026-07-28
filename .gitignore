@@ -1,4 +1,5 @@
 .settings
 .vscode
-.Debug
+.Debug/
 .project
+.cproject
